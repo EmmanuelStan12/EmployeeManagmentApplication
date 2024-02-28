@@ -1,7 +1,7 @@
-package net.javaguides.springboot;
+package com.codemage.springboot;
 
-import net.javaguides.springboot.model.Employee;
-import net.javaguides.springboot.repository.EmployeeRepository;
+import com.codemage.springboot.model.Employee;
+import com.codemage.springboot.repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

@@ -1,4 +1,4 @@
-package net.javaguides.springboot.model;
+package com.codemage.springboot.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
